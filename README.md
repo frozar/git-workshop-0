@@ -3,12 +3,14 @@
 **Objectif** : travailler à plusieurs sur un dépôt Github avec un premier workflow.
 
 Instructions
- - 1 personne du groupe fork ce dépôt principal
- - la personne qui crée le fork doit ajouter ces collègues comme collaborateur du dépôt
- - les collaborateurs récupèrent le dépôt forké
+ - 1 personne du groupe utilise ce dépôt principal comme template
+ <img width="1748" height="301" alt="use-template-repository" src="https://github.com/user-attachments/assets/9bc4d663-d78f-4e2b-b28e-1fa452559d19" />
+
+ - la personne qui crée le dépôt à partir du template doit ajouter ces collègues comme collaborateur du dépôt
+ - les collaborateurs récupèrent le dépôt nouvellement créé
  - le travail est à réaliser en utilisant uniquement la branche principale `main`
  - à tour de rôle :
-   1. 1 collaborateur va ajouter son prénom/nom à la liste des auteurs dans le fichier `authors.txt` dans un commit
+   1. 1 collaborateur va ajouter son prénom/nom à la liste des auteurs à la fin du fichier `authors.txt` dans un commit
    2. après avoir commité sa contribution, le collaborateur doit propager sa contribution sur le dépôt distant
    3. les collaborateurs qui n'ont pas fait la propagation doivent mettre à jour leur branche `main` locale avant de faire leur contribution, reprendre l'étape `i.`
  - à la fin de l'activité, le dépôt du groupe devrait avoir :
