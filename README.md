@@ -55,20 +55,6 @@ ralentissent le développement.
 
 # Boite à outils
 
-## Forker un dépôt
-
-Pour forker un dépôt, vous devez :
- - aller sur la page d'accueil du dépôt
- - cliquer sur le bouton "Fork"
-
-![image](img/fork.png)
-
-A la suite du fork, vous aurez un nouveau dépôt associé à votre compte GitHub.
-Sur ce dépôt, vous pouvez voir son lien de parenthé avec le dépôt d'origine
-sur la page d'accueil.
-
-![image](img/fork-check.png)
-
 ## Ajouter un collaborateur à un dépôt
 
 Ajouter un collaborateur à un dépôt GitHub lui permet de contribuer sur un dépôt,
